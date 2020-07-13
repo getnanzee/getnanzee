@@ -1,5 +1,8 @@
-<img src="https://abhisheksharmaa.com/images/sites/name.png">
-
+<p align = "center">
+<a href="https://abhisheksharmaa.com">
+<img src="https://abhisheksharmaa.com/images/site/name.png">
+</a>
+</p>
 
 
 ### Hi there 👋
