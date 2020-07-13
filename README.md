@@ -33,7 +33,7 @@ I am a ***Cloud/DevOps*** Enthusiast with 6 years of experience in designing, im
         <td>
             <h4><a href="https://medium.com/@abhishek.replies/setting-up-autoscaling-in-elastic-kubernetes-service-f3e915014205">AUTOSCALING IN AWS EKS</a></h4>
             <p>Eliminate the hassle of system failure or failover by implementing autoscaling to maximize the availability of your pods or cluster in Elastic Kubernetes Service.</p>
-            <p><a href="https://medium.com/@abhishek.replies/setting-up-autoscaling-in-elastic-kubernetes-service-f3e915014205">Read this article :point_right:</a></p>
+            <p><a href="https://medium.com/@abhishek.replies/setting-up-autoscaling-in-elastic-kubernetes-service-f3e915014205"> :point_left: Read this article </a></p>
             <p><a href="https://abhisheksharmaa.com/#/blog">Checkout other blogs</a></p>
         </td>
     </tr>
