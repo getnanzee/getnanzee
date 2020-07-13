@@ -1,11 +1,15 @@
 <p align = "center">
 <a href="https://abhisheksharmaa.com">
-<img src="https://abhisheksharmaa.com/images/site/name.png">
+<img width=450 src="https://abhisheksharmaa.com/images/site/name.png" />
+</a>
+</p>
+<p align = "center">
+<a href="https://www.linkedin.com/in/abhishek-sh/">
+<img width=50 src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 </p>
 
-
-### Hi there 👋
+### Heya 👋
 
 <!--
 **getnanzee/getnanzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
