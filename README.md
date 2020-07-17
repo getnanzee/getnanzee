@@ -5,10 +5,13 @@
 </p>
 <p align = "center">
 <a href="https://www.linkedin.com/in/abhishek-sh/" target="_blank">
-<img width=40 src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+<img width=35 src="https://abhisheksharmaa.com/images/ico/linkedin.svg" />
 </a>
 <a href="https://github.com/the-aws-lab" target="_blank">
 <img width=35 src="https://avatars1.githubusercontent.com/u/68336689?s=400&u=6030f5455d2b1b5cd4ae56f11e6ff7f15d2e45e1&v=4" />
+</a>
+<a href="https://www.instagram.com/getnanzee/" target="_blank">
+<img width=35 src="https://abhisheksharmaa.com/images/ico/instagram.svg" />
 </a>
 </p>
 
