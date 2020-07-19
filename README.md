@@ -23,11 +23,11 @@ I am a ***Cloud/DevOps*** Enthusiast with 6 years of experience in designing, im
 
 ### Skills:
 <p align="center">
+    <img width=120 src="https://abhisheksharmaa.com/images/skills/developer.png" /> &nbsp;
     <img width=120 src="https://abhisheksharmaa.com/images/skills/aws.png" /> &nbsp; 
     <img width=120 src="https://abhisheksharmaa.com/images/skills/gcp.png" /> &nbsp; 
     <img width=120 src="https://abhisheksharmaa.com/images/skills/terraform.png" /> &nbsp; 
     <img width=120 src="https://abhisheksharmaa.com/images/skills/kubernetes.png" /> &nbsp; 
-    <img width=120 src="https://abhisheksharmaa.com/images/skills/jenkins.png" /> &nbsp;
     <img width=120 src="https://abhisheksharmaa.com/images/skills/docker.svg" /> &nbsp; 
 </p>
 
