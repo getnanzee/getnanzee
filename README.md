@@ -35,7 +35,17 @@ I am a ***Cloud/DevOps*** Enthusiast with 6 years of experience in designing, im
 ### Blog:
 <table>
     <tr>
-        <td><a href="https://abhisheksharmaa.com/setting-up-autoscaling-in-elastic-kubernetes-service.html"><img width=700 src="https://abhisheksharmaa.com/images/blog/autoscaling.png" /></a></td>
+        <td>
+            <h4><a href="https://medium.com/@abhishek.replies/integrate-aws-codecommit-with-aws-cloud9-ide-3216d135b53c">Integrate AWS CodeCommit with AWS Cloud9 IDE</a></h4>
+            <p>Cloud9 is an integrated development environment service offered by AWS that helps users to write, store and maintain their code with just a browser.</p>
+            <p><a href="https://medium.com/@abhishek.replies/integrate-aws-codecommit-with-aws-cloud9-ide-3216d135b53c"> Read this article :point_right:</a></p>
+            <p><a href="https://abhisheksharmaa.com/#/blog">Checkout other blogs</a></p>
+        </td>
+        <td><a href="https://medium.com/@abhishek.replies/integrate-aws-codecommit-with-aws-cloud9-ide-3216d135b53c"><img width=500 src="https://miro.medium.com/max/700/1*gZJ4FflmLBDTuNXo6943eg.png" /></a>
+        </td>       
+    </tr>
+    <tr>
+        <td><a href="https://abhisheksharmaa.com/setting-up-autoscaling-in-elastic-kubernetes-service.html"><img width=500 src="https://abhisheksharmaa.com/images/blog/autoscaling.png" /></a></td>
         <td>
             <h4><a href="https://medium.com/@abhishek.replies/setting-up-autoscaling-in-elastic-kubernetes-service-f3e915014205">AUTOSCALING IN AWS EKS</a></h4>
             <p>Eliminate the hassle of system failure or failover by implementing autoscaling to maximize the availability of your pods or cluster in Elastic Kubernetes Service.</p>
