@@ -41,7 +41,7 @@ I am a ***Cloud/DevOps*** Enthusiast with 6 years of experience in designing, im
             <p><a href="https://medium.com/@abhishek.replies/integrate-aws-codecommit-with-aws-cloud9-ide-3216d135b53c"> Read this article :point_right:</a></p>
             <p><a href="https://abhisheksharmaa.com/#/blog">Checkout other blogs</a></p>
         </td>
-        <td><a href="https://medium.com/@abhishek.replies/integrate-aws-codecommit-with-aws-cloud9-ide-3216d135b53c"><img width=400 src="https://miro.medium.com/max/700/1*gZJ4FflmLBDTuNXo6943eg.png" /></a>
+        <td><a href="https://medium.com/@abhishek.replies/integrate-aws-codecommit-with-aws-cloud9-ide-3216d135b53c"><img width=500 src="https://miro.medium.com/max/700/1*gZJ4FflmLBDTuNXo6943eg.png" /></a>
         </td>       
     </tr>
     <tr>
